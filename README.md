@@ -22,6 +22,7 @@
     - input data: 개인 성향 설문, 여행지 분류 SOFTMAX DB, 감정 라벨링 데이터
     - 사용 모델: DNN
     - output: 여행지 추천 여부
+    
 <img width="956" alt="모델구성1" src="https://user-images.githubusercontent.com/58072776/132265635-fc92168e-eb56-4a40-a987-367ae6cf130d.PNG">
 <img width="955" alt="모델구성2" src="https://user-images.githubusercontent.com/58072776/132265665-e7621608-e28c-4ea3-815e-9bdc94379f5e.PNG">
 <img width="955" alt="모델 구성3" src="https://user-images.githubusercontent.com/58072776/132265669-40297e23-fc62-4d38-825e-ac614fab9408.PNG">
