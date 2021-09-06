@@ -1,7 +1,7 @@
 # traveling_recommendation
 사용자 성격 기반, 사용자 현재 기분 기반, 여행지 테마(성향) 기반 여행지 추천 시스템
 
-## 기술 스택: tensorflow, pandas, numpy,
+- 기술 스택: tensorflow, pandas, numpy,
 1. 개인 성향 데이터: MBTI, 개인 성격에 따른 여행지 만족도 관련 연구 논문 바탕으로 설문지 문항 구성
 2. 개인 감정: 사용자 업로드 사진 3장을 통한 감정 분석(행복, 슬픔, 화남, 중립)
    - 사용 모델: open_cv 얼굴 인식 모델, CNN
