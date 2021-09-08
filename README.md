@@ -24,5 +24,6 @@
     - 사용 모델: DNN
     - output: 여행지 추천 여부
     
+<img width="1028" alt="모델구성1-1" src="https://user-images.githubusercontent.com/58072776/132431812-b8ece788-8b93-4071-97a3-71eaae190c66.PNG">
 <img width="955" alt="모델구성2" src="https://user-images.githubusercontent.com/58072776/132265665-e7621608-e28c-4ea3-815e-9bdc94379f5e.PNG">
 <img width="955" alt="모델 구성3" src="https://user-images.githubusercontent.com/58072776/132265669-40297e23-fc62-4d38-825e-ac614fab9408.PNG">
