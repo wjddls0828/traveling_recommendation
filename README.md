@@ -13,7 +13,7 @@
 ## 모델 구성
 1. 여행지 리뷰 텍스트 테마 분류
    - input data:여행지 리뷰 텍스트 
-   - 사용 모델: BERT
+   - 사용 모델: RNN
    - output: 레저/체험, 자연, 교육 분류 (by softmax)
 2. 개인 감정: 사용자 업로드 사진 3장을 통한 감정 분석(행복, 슬픔, 화남, 중립)
    - input data:사용자 업로드 얼굴 사진 3장
@@ -24,6 +24,6 @@
     - 사용 모델: DNN
     - output: 여행지 추천 여부
     
-<img width="956" alt="모델구성1" src="https://user-images.githubusercontent.com/58072776/132265635-fc92168e-eb56-4a40-a987-367ae6cf130d.PNG">
+<img width="1028" alt="모델구성1-1" src="https://user-images.githubusercontent.com/58072776/132431812-b8ece788-8b93-4071-97a3-71eaae190c66.PNG">
 <img width="955" alt="모델구성2" src="https://user-images.githubusercontent.com/58072776/132265665-e7621608-e28c-4ea3-815e-9bdc94379f5e.PNG">
 <img width="955" alt="모델 구성3" src="https://user-images.githubusercontent.com/58072776/132265669-40297e23-fc62-4d38-825e-ac614fab9408.PNG">
